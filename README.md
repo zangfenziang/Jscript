@@ -32,6 +32,7 @@ var cjb = (x,y)=>{
 ```
 样例
 ```js
+输入:
 1
 var cjb = (x,y)=>{
     print(x);
@@ -43,4 +44,6 @@ var jww = (x)=>{
 var main = (x)=>{
     cjb(3, 7);
 }
+输出:
+8
 ```
